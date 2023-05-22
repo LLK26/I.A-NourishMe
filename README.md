@@ -12,5 +12,8 @@ de regressão linear, treinar a I.A para predizer se a pessoa fugiu muito de sua
 ## Pré-requisitos:
 Bibliotecas: pandas e sklearn.linear_model (Regressão Linear).
 
+## Mudanças
+Mantivemos nossa proposta
+
 ## Video Pitch Explicativo
 https://drive.google.com/drive/folders/1Ls-FjPYyI_aZ_lxlA_cOF01isWJf3P6T?usp=share_link
