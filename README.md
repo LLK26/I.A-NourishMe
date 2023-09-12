@@ -16,4 +16,4 @@ Bibliotecas: pandas e sklearn.
 Optamos por mudar a antiga proposta, pois trabalhar com calorias se tratando de uma pessoa com distúrbios alimentares, pode trazer resultados psicológicos prejudiciais a pessoa.
 
 ## Video Explicativo
-https://drive.google.com/file/d/1q0yeZuaRmAdlfxg2fdUyFh8KPYNR3p13/view?usp=share_link
+https://drive.google.com/drive/folders/1xxf-ph0s46SzD_FY22hFV5mABdeuTkY3?usp=sharing
