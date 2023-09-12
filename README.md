@@ -17,3 +17,11 @@ Optamos por mudar a antiga proposta, pois trabalhar com calorias se tratando de 
 
 ## Video Explicativo
 https://drive.google.com/file/d/1uMzzKzrHn_uKD2M2BqOJEb18SF08skNk/view?usp=drive_link
+
+## Integrantes
+RM95854 - Eduarda Nicoli Cavalheiro
+RM95396 - Ingrid Vieira de Oliveira
+RM95749 - João Vitor Santiago de Oliveira Braz
+RM95384 - Leonardo Dantas Marques
+RM96269 - Bianca Dos Santos Pereira
+RM93535 - Erik Siarkowski Salafia
